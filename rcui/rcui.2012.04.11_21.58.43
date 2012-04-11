@@ -1,0 +1,1 @@
+{"name": "124", "bot": ["arm-generic-full"], "extra_args": ["--gerrit-patches=124"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}
