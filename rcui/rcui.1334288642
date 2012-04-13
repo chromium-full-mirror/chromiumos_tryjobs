@@ -1,0 +1,1 @@
+{"name": "1234", "bot": ["x86-generic-paladin", "kaen-paladin"], "extra_args": ["--gerrit-patches=1234"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}
