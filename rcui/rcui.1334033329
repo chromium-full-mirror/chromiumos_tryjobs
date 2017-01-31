@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:null_change", "bot": ["mario-paladin", "mario-paladin", "mario-paladin", "mario-paladin", "mario-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:null_change:refs/tryjobs/rcui/1334033329/null_change/23d5d3b2:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

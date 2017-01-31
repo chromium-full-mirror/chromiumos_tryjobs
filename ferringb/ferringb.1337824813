@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:manifest-cleanup", "bot": ["x86-generic-paladin", "x86-alex-release"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:manifest-cleanup:refs/tryjobs/ferringb/1337824813/manifest-cleanup/607b2a5f:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[firmware-wolf-4389.24.B] 168424", "bot": ["wolf-firmware"], "extra_args": ["-b", "firmware-wolf-4389.24.B", "-g", "168424", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

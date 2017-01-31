@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R37-5978.B] 208071", "bot": ["amd64-generic-full"], "extra_args": ["-g", "208071", "-b", "release-R37-5978.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "tnagel", "email": ["tnagel@chromium.org"]}

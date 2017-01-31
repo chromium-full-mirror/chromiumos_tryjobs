@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "286944,286935", "bot": ["daisy_skate-paladin"], "extra_args": ["-g", "286944", "-g", "286935", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

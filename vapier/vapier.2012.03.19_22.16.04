@@ -1,0 +1,1 @@
+{"name": "18491", "bot": ["arm-generic-full"], "extra_args": ["--gerrit-patches=18491"], "version": 1, "user": "vapier", "email": ["vapier@chromium.org"]}

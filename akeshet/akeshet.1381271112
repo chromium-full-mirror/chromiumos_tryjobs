@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I9eca86faabe3471dc9704f3395f4c059b95da5ca", "bot": ["lumpy-release"], "extra_args": ["-g", "I9eca86faabe3471dc9704f3395f4c059b95da5ca", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "akeshet", "email": ["akeshet@chromium.org"]}

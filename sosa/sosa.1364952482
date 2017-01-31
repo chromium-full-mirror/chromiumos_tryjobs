@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/platform/gobi-cromo-plugin:dostuffs", "bot": ["alex-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/platform/gobi-cromo-plugin:dostuffs:refs/tryjobs/sosa/1364952482/dostuffs/b2fcecc69edf8622b477290f5fc293755f1953cf:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

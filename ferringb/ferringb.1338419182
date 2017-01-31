@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:stabling_crap", "bot": ["x86-generic-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:stabling_crap:refs/tryjobs/ferringb/1338419182/stabling_crap/4248ec27:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

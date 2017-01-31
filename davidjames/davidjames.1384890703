@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "177351", "bot": ["x86-mario-paladin", "x86-mario-release", "daisy-release", "lumpy-release", "chromiumos-sdk"], "extra_args": ["-g", "177351", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "davidjames", "email": ["davidjames@chromium.org"]}

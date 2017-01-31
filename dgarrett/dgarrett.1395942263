@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "191910", "bot": ["stumpy-full"], "extra_args": ["-g", "191910", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "dgarrett", "email": ["dgarrett@google.com"]}

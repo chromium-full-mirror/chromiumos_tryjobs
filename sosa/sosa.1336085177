@@ -1,0 +1,1 @@
+{"name": "21581", "bot": ["x86-generic-full"], "extra_args": ["-g", "21581", "--remote-trybot"], "version": 2, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "203470,200779,210353", "bot": ["stumpy_moblab-paladin"], "extra_args": ["--hwtest", "-g", "203470 200779 210353", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

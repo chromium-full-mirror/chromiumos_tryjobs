@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Id50eb2e790df9a90497866555a4fee1b113d26ec", "bot": ["daisy-full", "daisy-paladin", "mario-paladin", "beaglebone-incremental", "stumpy-full", "chromiumos-sdk"], "extra_args": ["-g", "Id50eb2e790df9a90497866555a4fee1b113d26ec", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "anush", "email": ["anush@chromium.org"]}

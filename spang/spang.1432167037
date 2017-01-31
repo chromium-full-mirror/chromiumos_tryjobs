@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R42-6812.B] 272448", "bot": ["link-release"], "extra_args": ["-b", "release-R42-6812.B", "--clobber", "-g", "272448", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "spang", "email": ["spang@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "234811,234721,234875", "bot": ["mipsel-o32-generic-chromium-pfq"], "extra_args": ["-g", "234811 234721 234875", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vapier", "email": ["vapier@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:fixyujucopy", "bot": ["mario-incremental"], "extra_args": ["--hwtest", "--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:fixyujucopy:refs/tryjobs/sosa/1350350371/fixyujucopy/e243565f1ebfd6e2adbbb480ce35318b5c16e5a1:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

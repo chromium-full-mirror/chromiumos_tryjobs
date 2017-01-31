@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ifa60727859d0fdcb3ef45a9571f370b93aa55615", "bot": ["x86-generic-paladin"], "extra_args": ["-g", "Ifa60727859d0fdcb3ef45a9571f370b93aa55615", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "dbehr", "email": ["dbehr@google.com"]}

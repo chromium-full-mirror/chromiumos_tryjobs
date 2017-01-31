@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["samus-payloads", "veyron_mighty-payloads"], "extra_args": ["--channel", "stable", "--version", "6812.75.2", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "matthewyuan", "email": ["matthewyuan@google.com"]}

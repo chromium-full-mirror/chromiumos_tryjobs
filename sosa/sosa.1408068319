@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:new", "bot": ["duck-release"], "extra_args": ["--hwtest", "--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:new:refs/tryjobs/sosa@chromium.org/1408068319/new/1d55d027021a230077264125b592ad033eed9f50:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "27182,27178", "bot": ["mario-incremental"], "extra_args": ["-g", "27182 27178", "--lkgm", "--remote-trybot", "--remote-version=3"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

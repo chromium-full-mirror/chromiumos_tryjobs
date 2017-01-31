@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "230674", "bot": ["link-paladin", "link-full", "link-release"], "extra_args": ["-g", "230674", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hashimoto", "email": ["hashimoto@chromium.org"]}

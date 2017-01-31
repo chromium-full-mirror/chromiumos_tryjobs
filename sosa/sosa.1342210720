@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:unifymessages", "bot": ["mario-paladin"], "extra_args": ["--buildbot", "--debug", "--nobuild", "--notests", "--noarchive", "--noprebuilts", "--remote-patches=chromiumos/chromite:unifymessages:refs/tryjobs/sosa/1342210720/unifymessages/ed173fe3:master:e"], "version": 3, "user": "sosa", "email": ["sosa@chromium.org"]}

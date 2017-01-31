@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[factory-veyron-6591.B] 266434", "bot": ["veyron_minnie-paladin"], "extra_args": ["-b", "factory-veyron-6591.B", "-g", "266434", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

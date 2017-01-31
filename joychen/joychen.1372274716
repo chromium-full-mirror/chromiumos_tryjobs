@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "60101,59790", "bot": ["mario-paladin"], "extra_args": ["-g", "60101", "-g", "59790", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "joychen", "email": ["joychen@google.com"]}

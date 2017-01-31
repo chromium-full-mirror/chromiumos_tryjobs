@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "213783", "bot": ["beaglebone-release", "link-release", "mipsel-o32-generic-release", "storm-release", "nyan-release"], "extra_args": ["-g", "213783", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hungte", "email": ["hungte@chromium.org"]}

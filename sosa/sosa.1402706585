@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "203792", "bot": ["stumpy_moblab-paladin", "stumpy_moblab-release"], "extra_args": ["-g", "203792", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

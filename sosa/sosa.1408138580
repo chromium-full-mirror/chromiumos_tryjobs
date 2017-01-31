@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["duck-payloads"], "extra_args": ["--channel", "canary", "--version", "R38-6154.0.0-b147", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

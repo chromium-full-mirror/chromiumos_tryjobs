@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "toolchain-25.3428.B_NO_PATCH_lumpy-release", "bot": ["lumpy-release"], "extra_args": ["-b", "toolchain-25.3428.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

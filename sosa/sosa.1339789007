@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "25211", "bot": ["link-paladin"], "extra_args": ["-g", "25211", "--remote-trybot"], "version": 3, "user": "sosa", "email": ["sosa@chromium.org"]}

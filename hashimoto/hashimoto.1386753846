@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "179310,179311", "bot": ["link-full", "daisy-full", "link-release", "daisy-release"], "extra_args": ["-g", "179310", "-g", "179311", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hashimoto", "email": ["hashimoto@chromium.org"]}

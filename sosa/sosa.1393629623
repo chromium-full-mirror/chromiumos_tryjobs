@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "188420", "bot": ["duck-paladin", "duck-release"], "extra_args": ["-g", "188420", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

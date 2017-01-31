@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I869863b1e06fe49c3de1eb2976832a5024ca263b", "bot": ["lumpy-paladin"], "extra_args": ["--buildbot", "--debug", "-g", "I869863b1e06fe49c3de1eb2976832a5024ca263b", "--remote-version=4"], "version": 4, "user": "mtennant", "email": ["mtennant@chromium.org"]}

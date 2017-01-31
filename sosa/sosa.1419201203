@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "226959", "bot": ["master-paladin"], "extra_args": ["-g", "226959", "--version", "6602.0.0-rc1", "--buildbot", "--debug", "--mock-tree-status", "throttled", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

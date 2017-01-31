@@ -1,0 +1,1 @@
+{"name": "20315", "bot": ["x86-generic-chrome-pre-flight-queue"], "extra_args": ["--gerrit-patches=20315"], "version": 1, "user": "sosa", "email": ["sosa@chromium.org"]}

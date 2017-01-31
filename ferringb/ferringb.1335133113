@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:testing", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:testing:refs/tryjobs/ferringb/1335133113/testing/f9b9f89f:master"], "version": 1, "user": "ferringb", "email": ["ferringb@chromium.org"]}

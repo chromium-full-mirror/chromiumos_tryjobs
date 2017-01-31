@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["daisy_spring-paladin"], "extra_args": ["--rietveld-patches", "579623003", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "plundblad", "email": ["plundblad@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "278012", "bot": ["rambi-pre-cq"], "extra_args": ["-g", "278012", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["parrot-release-pgo"], "extra_args": ["--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

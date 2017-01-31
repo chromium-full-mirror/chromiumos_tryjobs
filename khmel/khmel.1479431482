@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["veyron_minnie-chrome-pfq"], "extra_args": ["--chrome_version", "427d94ed", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "khmel", "email": ["khmel@google.com"]}

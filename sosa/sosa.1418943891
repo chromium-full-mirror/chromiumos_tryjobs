@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:blah", "bot": ["master-paladin"], "extra_args": ["--version", "6596.0.0-rc1", "--buildbot", "--debug", "--remote-version=4", "--remote-patches=chromiumos/chromite:blah:refs/tryjobs/sosa@chromium.org/1418943891/blah/b805344433e3bf13d0695110942fccc609518c90:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

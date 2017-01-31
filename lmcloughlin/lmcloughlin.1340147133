@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "25678", "bot": ["x86-generic-full"], "extra_args": ["-g", "25678", "--remote-trybot"], "version": 3, "user": "lmcloughlin", "email": ["lmcloughlin@google.com"]}

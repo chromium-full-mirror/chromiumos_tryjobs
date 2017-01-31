@@ -1,0 +1,1 @@
+{"name": "I6551fe22fb0caebd3584f76f95a543e9a91b7e1b,I780c20eeb745a919dbe130cf3cede7ec5ca6483a", "bot": ["x86-generic-paladin"], "extra_args": ["--gerrit-patches=I6551fe22fb0caebd3584f76f95a543e9a91b7e1b I780c20eeb745a919dbe130cf3cede7ec5ca6483a"], "version": 1, "user": "mkrebs", "email": ["mkrebs@chromium.org"]}

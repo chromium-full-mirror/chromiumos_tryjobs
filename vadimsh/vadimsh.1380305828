@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R29-4319.B] 170927", "bot": ["falco-release"], "extra_args": ["-g", "170927", "-b", "release-R29-4319.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vadimsh", "email": ["vadimsh@google.com"]}

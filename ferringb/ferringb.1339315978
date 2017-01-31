@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:fix", "bot": ["x86-alex-release-group"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:fix:refs/tryjobs/ferringb/1339315978/fix/8ce4a73c:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

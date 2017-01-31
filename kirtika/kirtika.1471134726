@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "369052", "bot": ["falco_li-release"], "extra_args": ["-g", "369052", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

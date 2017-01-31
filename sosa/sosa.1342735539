@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "27927", "bot": ["lumpy-chrome-pfq"], "extra_args": ["--buildbot", "--debug", "--hwtest", "--version", "2629.0.0-rc2", "-g", "27927", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

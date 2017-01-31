@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I56f1f134bd18c0f1bdd96998e2f689db56127075", "bot": ["butterfly-release"], "extra_args": ["--hwtest", "-g", "I56f1f134bd18c0f1bdd96998e2f689db56127075", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "mussa", "email": ["mussa@google.com"]}

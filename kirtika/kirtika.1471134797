@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "369062", "bot": ["samus-release"], "extra_args": ["-g", "369062", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

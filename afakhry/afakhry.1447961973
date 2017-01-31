@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["peach_pit-tot-chrome-pfq-informational"], "extra_args": ["--rietveld-patches", "1460013002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "afakhry", "email": ["afakhry@google.com"]}

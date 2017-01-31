@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*Ice9c57ab3532ba6b0a8c0a99999c9e2045c5936a", "bot": ["peach_pit-paladin"], "extra_args": ["-g", "*Ice9c57ab3532ba6b0a8c0a99999c9e2045c5936a", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "posciak", "email": ["posciak@chromium.org"]}

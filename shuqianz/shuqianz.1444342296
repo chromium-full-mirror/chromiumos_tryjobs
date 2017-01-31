@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R46-7390.B] 304850,304824", "bot": ["link-release"], "extra_args": ["-g", "304850 304824", "-b", "release-R46-7390.B", "--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "shuqianz", "email": ["shuqianz@chromium.org"]}

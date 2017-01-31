@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R45-7262.B] 287411", "bot": ["lakitu-release", "lakitu-paladin"], "extra_args": ["-b", "release-R45-7262.B", "-g", "287411", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "ameyd", "email": ["ameyd@google.com"]}

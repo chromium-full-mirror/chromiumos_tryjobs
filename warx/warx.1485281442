@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["peach_pit-tot-chrome-pfq-informational"], "extra_args": ["--chrome_version", "ed8d8325bf6b78433c13c01d0972fc491b6555a3", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "warx", "email": ["warx@chromium.org"]}

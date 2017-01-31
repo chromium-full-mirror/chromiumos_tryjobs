@@ -1,0 +1,1 @@
+{"name": "I2620cd2000b52d9d6d547453441a2286018e05b7,I20d51ec81ababc996df495e2441e1eaf72b4148a", "bot": ["x86-generic-paladin", "lumpy-paladin"], "extra_args": ["--gerrit-patches=I2620cd2000b52d9d6d547453441a2286018e05b7 I20d51ec81ababc996df495e2441e1eaf72b4148a"], "version": 1, "user": "dkrahn", "email": ["dkrahn@chromium.org"]}

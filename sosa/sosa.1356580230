@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:lkgm", "bot": ["lumpy-chrome-perf"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:lkgm:refs/tryjobs/sosa/1356580230/lkgm/74d52792f63da04c0a7473bcbd61ec494368d898:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

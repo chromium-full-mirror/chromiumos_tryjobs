@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "240580,248520", "bot": ["falco-release", "squawks-release", "parrot-release"], "extra_args": ["--nochromesdk", "-g", "240580 248520", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "rapati", "email": ["rapati@chromium.org"]}

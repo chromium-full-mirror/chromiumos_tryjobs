@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[stabilize2] ", "bot": ["x86-mario-release", "x86-zgb-release-group", "x86-alex-release-group", "lumpy-release", "stumpy-release", "parrot-release", "daisy-release"], "extra_args": ["-b", "stabilize2", "--buildbot", "--remote-version=4"], "version": 4, "user": "ddrew", "email": ["ddrew@chromium.org"]}

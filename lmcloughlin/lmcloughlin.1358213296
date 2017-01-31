@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "37366,40315,38286,40316,39049", "bot": ["x86-generic-full", "daisy-paladin", "daisy-full", "chromiumos-sdk"], "extra_args": ["-g", "37366", "-g", "40315", "-g", "38286", "-g", "40316", "-g", "39049", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "lmcloughlin", "email": ["lmcloughlin@chromium.org"]}

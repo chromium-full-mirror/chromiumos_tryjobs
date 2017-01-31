@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:fixprebuilts", "bot": ["unified-mario-paladin"], "extra_args": ["--nobuild", "--notests", "--nouprev", "--noarchive", "--buildbot", "--debug", "--remote-patches=chromiumos/chromite:fixprebuilts:refs/tryjobs/sosa/1336680235/fixprebuilts/fd07e992:master"], "version": 2, "user": "sosa", "email": ["sosa@chromium.org"]}

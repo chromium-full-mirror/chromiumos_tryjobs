@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "toolchain-3428.65.B__link-release", "bot": ["link-release"], "extra_args": ["-b", "toolchain-3428.65.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

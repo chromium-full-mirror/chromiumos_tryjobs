@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:osutils", "bot": ["amd64-generic-paladin"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:osutils:refs/tryjobs/ferringb/1336776288/osutils/bb9d99b3:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "181810", "bot": ["x86-generic-asan"], "extra_args": ["-g", "181810", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

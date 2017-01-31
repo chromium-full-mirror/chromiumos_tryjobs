@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[firmware-rambi-5216.B] *161946", "bot": ["quawks-release"], "extra_args": ["-g", "*161946", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

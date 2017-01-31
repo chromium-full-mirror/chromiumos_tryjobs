@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:local_patch_fixup", "bot": ["x86-generic-paladin"], "extra_args": ["--noclean", "--nosync", "--nobuild", "--notest", "--noarchive", "--noprebuilts", "--remote-patch=chromiumos/chromite:local_patch_fixup:refs/tryjobs/rcui/1332462361/local_patch_fixup/269fc694:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

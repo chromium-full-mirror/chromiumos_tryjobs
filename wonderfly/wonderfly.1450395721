@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:verbose_gce", "bot": ["lakitu-pre-cq"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:verbose_gce:refs/tryjobs/wonderfly@google.com/1450395721/verbose_gce/a8c11a6aa8f72f134188943a644694dc34a0f19d:master:e"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

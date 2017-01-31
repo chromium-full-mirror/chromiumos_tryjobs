@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "195550,195537,195558", "bot": ["daisy-release"], "extra_args": ["-g", "195550", "-g", "195537", "-g", "195558", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "waihong", "email": ["waihong@chromium.org"]}

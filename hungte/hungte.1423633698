@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:248434,CL:248450,CL:248451", "bot": ["link-full"], "extra_args": ["-g", "CL:248434 CL:248450 CL:248451", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hungte", "email": ["hungte@chromium.org"]}

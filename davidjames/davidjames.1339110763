@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["chromiumos-sdk"], "extra_args": ["--buildbot", "--debug"], "version": 3, "user": "davidjames", "email": ["davidjames@chromium.org"]}

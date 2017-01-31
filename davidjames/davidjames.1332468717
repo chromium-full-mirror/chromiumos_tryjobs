@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:fix-remote-patch", "bot": [], "extra_args": ["--remote-patches=chromiumos/chromite:fix-remote-patch:refs/tryjobs/davidjames/1332468717/fix-remote-patch/2c8d5fe1:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

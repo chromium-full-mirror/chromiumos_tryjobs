@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "234230", "bot": ["x86-generic-full", "amd64-generic-paladin", "daisy-release"], "extra_args": ["-g", "234230", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vapier", "email": ["vapier@chromium.org"]}

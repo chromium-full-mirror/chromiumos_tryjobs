@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "309577", "bot": ["whirlwind-paladin"], "extra_args": ["-g", "309577", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "ranix", "email": ["ranix@google.com"]}

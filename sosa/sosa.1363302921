@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R26-3701.B] ", "bot": ["mario-paladin"], "extra_args": ["-b", "release-R26-3701.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

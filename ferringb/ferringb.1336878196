@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:buffering", "bot": ["x86-generic-full"], "extra_args": ["--notee", "--remote-trybot", "--remote-patches=chromiumos/chromite:buffering:refs/tryjobs/ferringb/1336878196/buffering/c600718b:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

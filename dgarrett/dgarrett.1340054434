@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "25064", "bot": ["amd64-generic-paladin", "arm-tegra2-paladin", "x86-generic-paladin"], "extra_args": ["-g", "25064", "--remote-trybot"], "version": 3, "user": "dgarrett", "email": ["dgarrett@google.com"]}

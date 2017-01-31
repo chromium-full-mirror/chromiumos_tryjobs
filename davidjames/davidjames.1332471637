@@ -1,0 +1,1 @@
+{"name": "chromiumos/overlays/chromiumos-overlay:co-co", "bot": ["x86-generic-tot-chrome-pfq-informational"], "extra_args": ["--remote-patches=chromiumos/overlays/chromiumos-overlay:co-co:refs/tryjobs/davidjames/1332471637/co-co/f7f8f60e:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R47-7520.B] *233341,*233374,*233658,*233775,*233766", "bot": ["lakitu-release"], "extra_args": ["-b", "release-R47-7520.B", "-g", "*233341 *233374 *233658 *233775 *233766", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

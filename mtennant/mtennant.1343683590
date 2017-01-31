@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:stats-in-golo", "bot": ["alex-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:stats-in-golo:refs/tryjobs/mtennant/1343683590/stats-in-golo/0e247e4bc9a0ab936010d4688de67b4a275ad6cb:master:e"], "version": 4, "user": "mtennant", "email": ["mtennant@chromium.org"]}

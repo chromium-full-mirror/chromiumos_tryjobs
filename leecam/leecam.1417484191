@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["daisy_skate-release", "x86-alex-release"], "extra_args": ["--rietveld-patches", "770113002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "leecam", "email": ["leecam@chromium.org"]}

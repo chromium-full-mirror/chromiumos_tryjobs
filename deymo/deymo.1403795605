@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I04242782fcdec6b1a3d329a59b6552131639af21", "bot": ["pre-cq-group"], "extra_args": ["-g", "I04242782fcdec6b1a3d329a59b6552131639af21", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

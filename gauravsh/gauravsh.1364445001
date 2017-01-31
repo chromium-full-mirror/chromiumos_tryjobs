@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Upgrade gmock/gtest to 1.6", "bot": ["x86-generic-full", "amd64-generic-full", "arm-generic-full"], "extra_args": ["-g", "46420", "-g", "46428", "-g", "46438", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "gauravsh", "email": ["gauravsh@chromium.org"]}

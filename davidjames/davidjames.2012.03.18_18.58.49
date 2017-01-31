@@ -1,0 +1,1 @@
+{"name": "18129,18434", "bot": ["x86-generic-paladin"], "extra_args": ["--gerrit-patches=18129 18434"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

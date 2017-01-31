@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "173220", "bot": ["chromiumos-sdk"], "extra_args": ["-g", "173220", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vapier", "email": ["vapier@chromium.org"]}

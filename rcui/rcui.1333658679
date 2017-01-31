@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:cgroups_check", "bot": ["stumpy-paladin", "mario-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:cgroups_check:refs/tryjobs/rcui/1333658679/cgroups_check/e4655bac:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

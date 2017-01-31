@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "285856", "bot": ["veyron_jerry-release"], "extra_args": ["-g", "285856", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "waihong", "email": ["waihong@chromium.org"]}

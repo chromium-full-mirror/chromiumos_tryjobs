@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["stumpy-paladin", "stumpy-release"], "extra_args": ["-G", "21164006", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "xiyuan", "email": ["xiyuan@chromium.org"]}

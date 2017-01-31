@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*163503", "bot": ["kip-release"], "extra_args": ["-g", "*163503", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R25-3428.B] 41019", "bot": ["daisy-paladin", "lumpy-paladin"], "extra_args": ["-g", "41019", "-b", "release-R25-3428.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "backer", "email": ["backer@chromium.org"]}

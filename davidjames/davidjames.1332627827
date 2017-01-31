@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:no-jobs", "bot": ["x86-generic-full"], "extra_args": ["--remote-patches=chromiumos/chromite:no-jobs:refs/tryjobs/davidjames/1332627827/no-jobs/f35f0fb2:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:fixprebuilts", "bot": ["x86-mario-release"], "extra_args": ["--nobuild", "--notests", "--nouprev", "--noarchive", "--buildbot", "--debug", "--remote-patches=chromiumos/chromite:fixprebuilts:refs/tryjobs/sosa/1336776342/fixprebuilts/adebaf26:master"], "version": 2, "user": "sosa", "email": ["sosa@chromium.org"]}

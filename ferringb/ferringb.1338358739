@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:import-standardization", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:import-standardization:refs/tryjobs/ferringb/1338358739/import-standardization/f845a71c:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "217962,218260", "bot": ["falco-release"], "extra_args": ["--hwtest", "-g", "217962 218260 ", "--chrome_rev", "latest_release", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

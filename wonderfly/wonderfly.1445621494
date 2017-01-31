@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R47-7520.B] 308235", "bot": ["amd64-generic-full"], "extra_args": ["-b", "release-R47-7520.B", "-g", " 308235", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

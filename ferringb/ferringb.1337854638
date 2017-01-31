@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-paladin", "x86-alex-release"], "extra_args": ["--buildbot", "--debug"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

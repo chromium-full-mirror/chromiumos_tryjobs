@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "24632", "bot": ["amd64-generic-full", "x86-alex-release-group", "arm-daisy-release"], "extra_args": ["-g", "24632", "--remote-trybot"], "version": 3, "user": "davidjames", "email": ["davidjames@chromium.org"]}

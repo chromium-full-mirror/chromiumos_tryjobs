@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "39510", "bot": ["x86-mario-release", "link-paladin", "x86-generic-chromium-pfq"], "extra_args": ["-g", "39510", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "0_x86-alex-release_*32093", "bot": ["x86-alex-release"], "extra_args": ["-b", "release-R25-3428.B", "-g", "*32093", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

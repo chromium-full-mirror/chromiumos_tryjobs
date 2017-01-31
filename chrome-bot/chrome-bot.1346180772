@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "31587", "bot": ["x86-alex-release", "lumpy-release"], "extra_args": ["--buildnumber", "6", "-g", "31587", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "chrome-bot", "email": ["chrome-bot@chromium.org"]}

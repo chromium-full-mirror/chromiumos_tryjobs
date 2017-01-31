@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ie5ecbcc5,I0f86d67c,I4c69b1c1,Id7bf6bfa,Ic4b529c8,I27276757", "bot": ["link-paladin"], "extra_args": ["-g", "Ie5ecbcc5", "-g", "I0f86d67c", "-g", "I4c69b1c1", "-g", "Id7bf6bfa", "-g", "Ic4b529c8", "-g", "I27276757", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "cywang", "email": ["cywang@chromium.org"]}

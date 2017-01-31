@@ -1,0 +1,1 @@
+{"name": "19626", "bot": ["chromiumos-sdk"], "extra_args": ["--gerrit-patches=19626"], "version": 1, "user": "asharif", "email": ["asharif@chromium.org"]}

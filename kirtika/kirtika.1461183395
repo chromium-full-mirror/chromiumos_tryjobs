@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "336692", "bot": ["auron-release"], "extra_args": ["-g", "336692", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

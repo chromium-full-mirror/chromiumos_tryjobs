@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I80b97eaf7b", "bot": ["arm-generic-full", "amd64-generic-full"], "extra_args": ["-g", "I80b97eaf7b", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wdg", "email": ["wdg@chromium.org"]}

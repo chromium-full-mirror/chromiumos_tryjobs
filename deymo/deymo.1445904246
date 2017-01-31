@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:308960,CL:308552", "bot": ["whirlwind-full"], "extra_args": ["-g", "CL:308960 CL:308552", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

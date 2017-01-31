@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:cros-workon-tree", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:cros-workon-tree:refs/tryjobs/davidjames/1333323438/cros-workon-tree/23ebd1b7:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

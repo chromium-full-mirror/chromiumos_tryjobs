@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R34-5500.B] 190383", "bot": ["butterfly-release", "x86-zgb-release"], "extra_args": ["-g", "190383", "-b", "release-R34-5500.B", "--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "beeps", "email": ["beeps@google.com"]}

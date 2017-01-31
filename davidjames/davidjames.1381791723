@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:foo", "bot": ["mario-paladin", "alex-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-version=4", "--remote-patches=chromiumos/chromite:foo:refs/tryjobs/davidjames@chromium.org/1381791723/foo/63953b23b0b5300ef3857cf54497823c381c668c:master:e"], "version": 4, "user": "davidjames", "email": ["davidjames@chromium.org"]}

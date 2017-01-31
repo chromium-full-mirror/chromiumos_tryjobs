@@ -1,0 +1,1 @@
+{"name": "19426,19427", "bot": ["x86-generic-paladin", "mario-paladin", "mario-incremental"], "extra_args": ["--gerrit-patches=19426 19427"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

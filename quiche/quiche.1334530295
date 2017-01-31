@@ -1,0 +1,1 @@
+{"name": "chromiumos/platform/shill:virtnet-workaround", "bot": ["alex-paladin"], "extra_args": ["--remote-patches=chromiumos/platform/shill:virtnet-workaround:refs/tryjobs/quiche/1334530295/virtnet-workaround/c5191863:master"], "version": 1, "user": "quiche", "email": ["quiche@chromium.org"]}

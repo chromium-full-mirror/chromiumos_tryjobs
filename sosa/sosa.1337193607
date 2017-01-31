@@ -1,0 +1,1 @@
+{"name": "22838", "bot": ["x86-mario-release"], "extra_args": ["-g", "22838", "--remote-trybot"], "version": 2, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R46-7390.B] 309547,309548", "bot": ["daisy-paladin"], "extra_args": ["-g", "309547", "-g", "309548", "-b", "release-R46-7390.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "msartori", "email": ["msartori@google.com"]}

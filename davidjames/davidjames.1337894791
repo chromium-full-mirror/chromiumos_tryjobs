@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-paladin"], "extra_args": ["--clobber", "--buildbot", "--debug"], "version": 3, "user": "davidjames", "email": ["davidjames@google.com"]}

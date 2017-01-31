@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "337860", "bot": ["cyan-release"], "extra_args": ["-g", "337860", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

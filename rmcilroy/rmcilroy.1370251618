@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "50785", "bot": ["parrot-paladin"], "extra_args": ["-g", "50785", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "rmcilroy", "email": ["rmcilroy@google.com"]}

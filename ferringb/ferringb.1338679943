@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:backup", "bot": ["x86-generic-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:backup:refs/tryjobs/ferringb/1338679943/backup/b2c2a434:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

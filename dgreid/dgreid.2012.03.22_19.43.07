@@ -1,0 +1,1 @@
+{"name": "18874,18875", "bot": ["x86-generic-paladin", "arm-tegra2-paladin", "lumpy-paladin", "link-paladin"], "extra_args": ["--gerrit-patches=18874 18875"], "version": 1, "user": "dgreid", "email": ["dgreid@chromium.org"]}

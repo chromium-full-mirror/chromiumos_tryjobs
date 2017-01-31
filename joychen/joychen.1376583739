@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "64393", "bot": ["daisy-paladin"], "extra_args": ["-g", "64393", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "joychen", "email": ["joychen@chromium.org"]}

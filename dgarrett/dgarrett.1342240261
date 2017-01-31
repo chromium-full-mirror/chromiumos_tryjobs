@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I90d18a6d", "bot": ["x86-mario-release"], "extra_args": ["-g", "I90d18a6d", "--remote-trybot"], "version": 3, "user": "dgarrett", "email": ["dgarrett@google.com"]}

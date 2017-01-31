@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I5c2fc3a6,Icd21e26f", "bot": ["lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release", "lumpy-release"], "extra_args": ["-g", "I5c2fc3a6", "-g", "Icd21e26f", "--remote-trybot"], "version": 3, "user": "dgarrett", "email": ["dgarrett@google.com"]}

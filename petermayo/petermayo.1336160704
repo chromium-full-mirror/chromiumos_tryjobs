@@ -1,0 +1,1 @@
+{"name": "21519", "bot": ["lumpy-chrome-pfq", "x86-mario-release", "x86-alex-release"], "extra_args": ["-g", "21519", "--remote-trybot"], "version": 2, "user": "petermayo", "email": ["petermayo@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "27778", "bot": ["mario-paladin"], "extra_args": ["--debug", "--buildbot", "-g", "27778", "--bootstrap-args", "--cq-gerrit-query 'is:open AND -project:chromiumos/chromite'", "--remote-version=3"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

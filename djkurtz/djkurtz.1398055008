@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R35-5712.B] 195801", "bot": ["daisy-release"], "extra_args": ["-b", "release-R35-5712.B", "-g", "195801", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "djkurtz", "email": ["djkurtz@chromium.org"]}

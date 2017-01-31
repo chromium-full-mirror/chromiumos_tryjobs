@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:more_cleanup_2", "bot": ["arm-tegra2-paladin", "x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:more_cleanup_2:refs/tryjobs/rcui/1333674664/more_cleanup_2/65a35f17:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

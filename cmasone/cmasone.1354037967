@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/platform/system_api:bug36668", "bot": ["mario-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/platform/system_api:bug36668:refs/tryjobs/cmasone/1354037967/bug36668/ca4613c42a10eb21e4cb6a56f43402abd0b7c712:master:e"], "version": 4, "user": "cmasone", "email": ["cmasone@chromium.org"]}

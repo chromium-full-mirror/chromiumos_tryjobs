@@ -1,0 +1,1 @@
+{"name": "I84abacd4,I3ebc52a", "bot": ["arm-tegra2-paladin"], "extra_args": ["--gerrit-patches=I84abacd4 I3ebc52a"], "version": 1, "user": "quiche", "email": ["quiche@chromium.org"]}

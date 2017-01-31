@@ -1,0 +1,1 @@
+{"name": "chromiumos/overlays/chromiumos-overlay:disable-compiler-upgrade", "bot": ["x86-generic-full"], "extra_args": ["--remote-patches=chromiumos/overlays/chromiumos-overlay:disable-compiler-upgrade:refs/tryjobs/davidjames/1332716961/disable-compiler-upgrade/eff520bb:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

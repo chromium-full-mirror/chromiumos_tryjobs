@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:crap", "bot": ["x86-generic-full"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:crap:refs/tryjobs/ferringb/1336165287/crap/810297c8:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

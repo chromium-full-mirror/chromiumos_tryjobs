@@ -1,0 +1,1 @@
+{"name": "", "bot": ["x86-generic-full"], "extra_args": ["--notee", "--remote-trybot"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

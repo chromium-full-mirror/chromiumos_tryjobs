@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["chell-release"], "extra_args": ["--chrome_rev", "spec", "--chrome_version", "4884a42924bcf60179dfce507d267dcc7e472d23", "-G", "1934013002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "skau", "email": ["skau@chromium.org"]}

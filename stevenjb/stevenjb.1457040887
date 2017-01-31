@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["daisy_skate-chrome-pfq"], "extra_args": ["--chrome_version", "89de433c4e57f4de24e6fff63b852af02cf0b58a", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Id13b45cb4191dcfb9cab371b82bb589c132c7e09", "bot": ["link-paladin"], "extra_args": ["-g", "Id13b45cb4191dcfb9cab371b82bb589c132c7e09", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

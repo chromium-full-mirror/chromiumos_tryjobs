@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[firmware-falco_peppy-4389.81.B] 189639", "bot": ["peppy-firmware"], "extra_args": ["-g", "189639", "-b", "firmware-falco_peppy-4389.81.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vadimsh", "email": ["vadimsh@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/third_party/autotest:lpadmin", "bot": ["lakitu-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/third_party/autotest:lpadmin:refs/tryjobs/skau@chromium.org/1471302281/lpadmin/621e6875b3ac66afe83e46b4c896f78460d42e58:master:e"], "version": 4, "user": "skau", "email": ["skau@chromium.org"]}

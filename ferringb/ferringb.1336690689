@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:tee", "bot": ["x86-generic-full"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:tee:refs/tryjobs/ferringb/1336690689/tee/b673e8fa:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

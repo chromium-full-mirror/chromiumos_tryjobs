@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "368992", "bot": ["squawks-release"], "extra_args": ["-g", "368992", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

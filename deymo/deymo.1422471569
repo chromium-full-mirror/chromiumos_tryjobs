@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I28fd11508cd44059e5a61ddad26597a50a967dcc", "bot": ["link-release", "peppy-release", "leon-release"], "extra_args": ["-g", "I28fd11508cd44059e5a61ddad26597a50a967dcc", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:run-suite", "bot": ["daisy-release"], "extra_args": ["--hwtest", "--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:run-suite:refs/tryjobs/beeps@google.com/1394228361/run-suite/7bc35769c462461a566c91e8258194149c3d1759:master:e"], "version": 4, "user": "beeps", "email": ["beeps@google.com"]}

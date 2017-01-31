@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "223568,223569,223600,224030,223602,223603,223604,223605,223567,223606... (3 more CLs)", "bot": ["rush_ryu-paladin"], "extra_args": ["-g", "223568  223569 223600 224030 223602 223603 223604 223605 223567 223606 223607 223608 223609", "--pre-cq", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "olof", "email": ["olofj@chromium.org"]}

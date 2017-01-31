@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "168493", "bot": ["parrot-pre-cq", "parrot-pre-cq", "parrot-pre-cq", "parrot-pre-cq", "parrot-pre-cq", "parrot-pre-cq"], "extra_args": ["-g", "168493", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

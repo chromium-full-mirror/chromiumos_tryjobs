@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "195091,195338,194506,195550", "bot": ["peppy-release"], "extra_args": ["-g", "195091", "-g", "195338", "-g", "194506", "-g", "195550", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "waihong", "email": ["waihong@chromium.org"]}

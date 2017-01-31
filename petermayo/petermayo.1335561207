@@ -1,0 +1,1 @@
+{"name": "21273,21281", "bot": ["lumpy-chrome-pfq", "lumpy-release", "x86-mario-release"], "extra_args": ["--gerrit-patches=21273 21281"], "version": 1, "user": "petermayo", "email": ["petermayo@chromium.org"]}

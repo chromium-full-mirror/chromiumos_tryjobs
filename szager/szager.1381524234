@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "172891", "bot": ["mario-paladin"], "extra_args": ["--buildbot", "--debug", "-g", "172891", "--remote-version=4"], "version": 4, "user": "szager", "email": ["szager@chromium.org"]}

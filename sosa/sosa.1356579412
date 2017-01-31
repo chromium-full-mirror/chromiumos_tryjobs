@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "40231", "bot": ["lumpy-chrome-perf"], "extra_args": ["-g", "40231", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

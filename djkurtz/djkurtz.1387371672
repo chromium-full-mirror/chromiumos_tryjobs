@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "180622,180623,180636,180598", "bot": ["arm-generic-full", "daisy-paladin", "nyan-paladin", "link-paladin"], "extra_args": ["-g", "180622", "-g", "180623", "-g", "180636", "-g", "180598", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "djkurtz", "email": ["djkurtz@chromium.org"]}

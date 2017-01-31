@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I84f46a027d3e40c08606429f2d40fe69021bf037", "bot": ["x86-mario-release"], "extra_args": ["-g", "I84f46a027d3e40c08606429f2d40fe69021bf037", "--debug", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "mtennant", "email": ["mtennant@chromium.org"]}

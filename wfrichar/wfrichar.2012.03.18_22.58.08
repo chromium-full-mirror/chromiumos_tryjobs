@@ -1,0 +1,1 @@
+{"name": "I9c194e9c", "bot": ["arm-tegra2-paladin", "x86-generic-paladin", "stumpy-paladin"], "extra_args": ["--gerrit-patches=I9c194e9c"], "version": 1, "user": "wfrichar", "email": ["wfrichar@chromium.org"]}

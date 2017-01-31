@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R55-8872.B] *299935", "bot": ["lakitu-incremental"], "extra_args": ["-b", "release-R55-8872.B", "-g", "*299935", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "173678,174313,174249,174330,174303,174315,174304,174305,174331,174316... (3 more CLs)", "bot": ["x86-generic-full"], "extra_args": ["-g", "173678 174313 174249 174330 174303 174315 174304 174305 174331 174316 174306 174317 174332", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "achaulk", "email": ["achaulk@chromium.org"]}

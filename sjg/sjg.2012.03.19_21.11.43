@@ -1,0 +1,1 @@
+{"name": "18322", "bot": ["arm-tegra2_kaen-release"], "extra_args": ["--gerrit-patches=18322"], "version": 1, "user": "sjg", "email": ["sjg@chromium.org"]}

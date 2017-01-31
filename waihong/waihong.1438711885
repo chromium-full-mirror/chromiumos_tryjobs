@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "285856,290325,290326,290327,290328,290329,290350", "bot": ["veyron_jerry-release"], "extra_args": ["-g", "285856", "-g", "290325", "-g", "290326", "-g", "290327", "-g", "290328", "-g", "290329", "-g", "290350", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "waihong", "email": ["waihong@chromium.org"]}

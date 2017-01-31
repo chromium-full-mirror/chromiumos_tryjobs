@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-tot-chromium-pfq-informational"], "extra_args": ["--rietveld-patches", "2169763002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sque", "email": ["sque@chromium.org"]}

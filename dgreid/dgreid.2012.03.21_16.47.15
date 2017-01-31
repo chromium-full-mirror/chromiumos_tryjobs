@@ -1,0 +1,1 @@
+{"name": "I79a761120e5840a85f512f5583f8c1fd6d99e665", "bot": ["x86-generic-paladin", "x86-generic-full", "arm-tegra2-paladin", "zgb-paladin"], "extra_args": ["--gerrit-patches=I79a761120e5840a85f512f5583f8c1fd6d99e665"], "version": 1, "user": "dgreid", "email": ["dgreid@chromium.org"]}

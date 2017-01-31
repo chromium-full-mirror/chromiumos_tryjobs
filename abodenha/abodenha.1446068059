@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["tricky-release"], "extra_args": ["--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "abodenha", "email": ["abodenha@google.com"]}

@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:loop_vm", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:loop_vm:refs/tryjobs/rcui/1333500244/loop_vm/4d273a61:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

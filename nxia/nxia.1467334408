@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "357740", "bot": ["config-updater"], "extra_args": ["-g", "357740", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "nxia", "email": ["nxia@chromium.org"]}

@@ -1,0 +1,1 @@
+{"name": "18419", "bot": ["x86-generic-tot-chrome-pfq-informational", "amd64-generic-tot-chrome-pfq-informational"], "extra_args": ["--gerrit-patches=18419"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

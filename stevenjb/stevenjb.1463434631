@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "344831", "bot": ["tricky-tot-chrome-pfq-informational"], "extra_args": ["-g", "344831", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

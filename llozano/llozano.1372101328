@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "master_*40122+59811_stumpy-release", "bot": ["stumpy-release"], "extra_args": ["-g", "*40122", "-g", "59811", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

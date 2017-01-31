@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:noquery2", "bot": ["mario-paladin"], "extra_args": ["--debug", "--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:noquery2:refs/tryjobs/szager@chromium.org/1381351383/noquery2/f1ba2a08f9362f67de559775bf7392673a6bd316:master:e"], "version": 4, "user": "szager", "email": ["szager@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "24933", "bot": ["link-paladin", "mario-incremental", "x86-generic-incremental", "arm-tegra2-incremental"], "extra_args": ["-g", "24933", "--remote-trybot"], "version": 3, "user": "davidjames", "email": ["davidjames@chromium.org"]}

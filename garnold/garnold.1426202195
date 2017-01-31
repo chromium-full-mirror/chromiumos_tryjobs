@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "259101", "bot": ["parrot-full"], "extra_args": ["-g", "259101", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "garnold", "email": ["garnold@chromium.org"]}

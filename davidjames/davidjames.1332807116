@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:fix-pb-sync", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:fix-pb-sync:refs/tryjobs/davidjames/1332807116/fix-pb-sync/d795efc3:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

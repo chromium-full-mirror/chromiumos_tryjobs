@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "237150", "bot": ["veyron_speedy-release"], "extra_args": ["-g", "237150", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

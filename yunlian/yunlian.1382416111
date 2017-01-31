@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "173931", "bot": ["chromiumos-sdk", "lumpy-release", "x86-generic-asan"], "extra_args": ["-g", "173931", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "yunlian", "email": ["yunlian@google.com"]}

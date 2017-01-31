@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:todo", "bot": ["x86-generic-full"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:todo:refs/tryjobs/mtennant@chromium.org/1388083431/todo/da912a04abb485bd1ef958af6c4dffb32d7393c8:master:e"], "version": 4, "user": "mtennant", "email": ["mtennant@chromium.org"]}

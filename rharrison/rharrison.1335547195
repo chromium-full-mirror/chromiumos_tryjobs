@@ -1,0 +1,1 @@
+{"name": "21334", "bot": ["amd64-generic-paladin"], "extra_args": ["--gerrit-patches=21334"], "version": 1, "user": "rharrison", "email": ["rharrison@chromium.org"]}

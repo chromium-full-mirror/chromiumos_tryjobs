@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/platform/factory:logec", "bot": ["link-release"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/platform/factory:logec:refs/tryjobs/victoryang/1346177780/logec/e7c4b47b7e4fbc305d2c94360efb98614a258929:master:e"], "version": 4, "user": "victoryang", "email": ["victoryang@chromium.org"]}

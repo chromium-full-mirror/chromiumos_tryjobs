@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "46020", "bot": ["lumpy-paladin"], "extra_args": ["-g", "46020", "--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

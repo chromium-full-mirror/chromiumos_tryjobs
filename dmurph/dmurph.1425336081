@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["mipsel-n32-generic-paladin"], "extra_args": ["-G", "971883002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "dmurph", "email": ["dmurph@chromium.org"]}

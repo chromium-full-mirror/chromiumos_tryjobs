@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "260741", "bot": ["chromiumos-sdk", "storm-release", "daisy-release"], "extra_args": ["--latest-toolchain", "-g", "260741", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "djkurtz", "email": ["djkurtz@chromium.org"]}

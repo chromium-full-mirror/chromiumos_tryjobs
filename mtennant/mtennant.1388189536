@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I5c5bbdecf8e999d50580cd41b776c8882f5d55fb", "bot": ["chromiumos-sdk", "arm-generic-full", "link-full", "x86-mario-full", "lumpy-pre-cq"], "extra_args": ["-g", "I5c5bbdecf8e999d50580cd41b776c8882f5d55fb", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "mtennant", "email": ["mtennant@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "247821", "bot": ["rambi-freon-a-full-group", "rambi_freon-paladin"], "extra_args": ["-g", "247821", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "olof", "email": ["olofj@chromium.org"]}

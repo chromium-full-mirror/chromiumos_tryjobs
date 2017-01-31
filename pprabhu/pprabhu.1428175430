@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*197005", "bot": ["urara-paladin"], "extra_args": ["-g", "*197005", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "pprabhu", "email": ["pprabhu@chromium.org"]}

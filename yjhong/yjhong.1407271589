@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:pfq", "bot": ["master-chromium-pfq"], "extra_args": ["--buildbot", "--debug", "--remote-version=4", "--remote-patches=chromiumos/chromite:pfq:refs/tryjobs/yjhong@chromium.org/1407271589/pfq/b161dbb67c0be6be33ea290dec4dea4879e2249f:master:e"], "version": 4, "user": "yjhong", "email": ["yjhong@chromium.org"]}

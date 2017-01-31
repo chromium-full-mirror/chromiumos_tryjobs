@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "336458", "bot": ["lars-release"], "extra_args": ["-g", "336458", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "kirtika", "email": ["kirtika@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "65918,65919", "bot": ["butterfly-paladin", "daisy-paladin"], "extra_args": ["-g", "65918", "-g", "65919", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "quiche", "email": ["quiche@chromium.org"]}

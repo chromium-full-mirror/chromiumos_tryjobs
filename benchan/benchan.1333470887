@@ -1,0 +1,1 @@
+{"name": "chromiumos/platform/chaps:debug", "bot": ["mario-incremental"], "extra_args": ["--remote-patches=chromiumos/platform/chaps:debug:refs/tryjobs/benchan/1333470887/debug/bbc87f93:master"], "version": 1, "user": "benchan", "email": ["benchan@chromium.org"]}

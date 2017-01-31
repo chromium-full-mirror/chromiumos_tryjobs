@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["kevin-release"], "extra_args": ["--rietveld-patches", "2361803002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "chihchung", "email": ["chihchung@chromium.org"]}

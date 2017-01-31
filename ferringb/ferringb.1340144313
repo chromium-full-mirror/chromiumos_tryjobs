@@ -1,0 +1,1 @@
+{"slaves_request": ["build16-m2"], "name": "chromiumos/chromite:fix-r20", "bot": ["x86-generic-paladin"], "extra_args": ["-b", "release-R20-2268.B", "--remote-trybot", "--remote-patches=chromiumos/chromite:fix-r20:refs/tryjobs/ferringb/1340144313/fix-r20/3ec7e0d9:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

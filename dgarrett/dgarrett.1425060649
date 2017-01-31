@@ -1,0 +1,1 @@
+{"slaves_request": ["cros-testing1-c2"], "name": "", "bot": ["lumpy-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4"], "version": 4, "user": "dgarrett", "email": ["dgarrett@google.com"]}

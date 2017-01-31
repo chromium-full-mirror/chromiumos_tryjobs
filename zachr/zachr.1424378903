@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "250862,248881,248891,248900,248901", "bot": ["stumpy_freon-paladin", "nyan_freon-paladin"], "extra_args": ["-g", "250862 248881 248891 248900 248901", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "zachr", "email": ["zachr@google.com"]}

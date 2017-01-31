@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:test", "bot": ["lakitu-release"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:test:refs/tryjobs/wonderfly@google.com/1467332488/test/effa40951a6aa47a2e5a2a8f57b057b6f13684bb:master:e"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

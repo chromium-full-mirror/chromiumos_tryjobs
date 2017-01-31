@@ -1,0 +1,1 @@
+{"name": "22364", "bot": ["x86-generic-paladin", "amd64-generic-paladin", "arm-tegra2-paladin"], "extra_args": ["-g", "22364", "--remote-trybot"], "version": 2, "user": "rharrison", "email": ["rharrison@chromium.org"]}

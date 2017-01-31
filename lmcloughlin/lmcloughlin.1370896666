@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "58116", "bot": ["daisy-paladin"], "extra_args": ["-g", "58116", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "lmcloughlin", "email": ["lmcloughlin@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "227671", "bot": ["pre-cq-group"], "extra_args": ["-g", "227671", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "vapier", "email": ["vapier@chromium.org"]}

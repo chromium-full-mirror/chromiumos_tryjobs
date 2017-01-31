@@ -1,0 +1,1 @@
+{"slaves_request": ["build16-m2"], "name": "Ib4fee44b50dc877839041b32cdecf22da18ccbef", "bot": ["x86-generic-paladin"], "extra_args": ["-g", "Ib4fee44b50dc877839041b32cdecf22da18ccbef", "-b", "release-R19-2046.B", "--remote-trybot"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

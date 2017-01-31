@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[stabilize-6812.41.B] ", "bot": ["samus-release"], "extra_args": ["--buildbot", "--branch", "stabilize-6812.41.B", "--remote-version=4"], "version": 4, "user": "matthewyuan", "email": ["matthewyuan@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "357371", "bot": ["lumpy-incremental-paladin"], "extra_args": ["-g", "357371", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "nxia", "email": ["nxia@chromium.org"]}

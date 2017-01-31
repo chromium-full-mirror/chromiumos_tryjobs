@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R23-2913.B] 34407", "bot": ["alex-paladin", "daisy-paladin"], "extra_args": ["-g", "34407", "-b", "release-R23-2913.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "petkov", "email": ["petkov@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "41345", "bot": ["link-release"], "extra_args": ["-g", "41345", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "yjlou", "email": ["yjlou@chromium.org"]}

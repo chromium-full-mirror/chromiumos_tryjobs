@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*I2d5adab3", "bot": ["link-paladin", "link-release"], "extra_args": ["-g", "*I2d5adab3", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deanliao", "email": ["deanliao@chromium.org"]}

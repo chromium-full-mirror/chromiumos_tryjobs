@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Iad2e3961", "bot": ["x86-generic-full", "arm-tegra2-full", "lumpy-paladin", "stumpy-paladin", "daisy-paladin"], "extra_args": ["-g", "Iad2e3961", "-b", "release-R20-2268.B", "--remote-trybot"], "version": 3, "user": "rharrison", "email": ["rharrison@chromium.org"]}

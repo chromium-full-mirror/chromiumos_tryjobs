@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-telemetry"], "extra_args": ["--rietveld-patches", "997803003", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "cylee", "email": ["cylee@chromium.org"]}

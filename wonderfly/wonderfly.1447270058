@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[remotes/cros/release-R47-7520.B] *238391", "bot": ["lakitu-release"], "extra_args": ["-b", "remotes/cros/release-R47-7520.B", "-g", "*238391", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

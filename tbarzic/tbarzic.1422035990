@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["mipsel-o32-generic-paladin"], "extra_args": ["--rietveld-patches", "867333993", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "tbarzic", "email": ["tbarzic@chromium.org"]}

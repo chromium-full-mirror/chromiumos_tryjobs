@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:291076", "bot": ["mipsel-o32-generic-full"], "extra_args": ["-g", "CL:291076", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

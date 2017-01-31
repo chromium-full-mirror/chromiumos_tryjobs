@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "41230", "bot": ["lumpy-chrome-pgo"], "extra_args": ["--version", "3518.0.0-rc1", "-g", "41230", "--buildbot", "--debug", "--remote-version=4"], "version": 4, "user": "asharif", "email": ["asharif@chromium.org"]}

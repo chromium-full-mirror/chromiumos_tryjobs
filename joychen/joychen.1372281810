@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "60124", "bot": ["lumpy-release"], "extra_args": ["-g", "60124", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "joychen", "email": ["joychen@google.com"]}

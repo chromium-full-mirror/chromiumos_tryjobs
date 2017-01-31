@@ -1,0 +1,1 @@
+{"name": "chromiumos/platform/crosutils:better-errors", "bot": ["x86-generic-full", "arm-tegra2-full", "chromiumos-sdk"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/platform/crosutils:better-errors:refs/tryjobs/ferringb/1336239931/better-errors/66fbae38:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

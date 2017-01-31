@@ -1,0 +1,1 @@
+{"slaves_request": ["build16-m2"], "name": "25447", "bot": ["x86-generic-paladin"], "extra_args": ["--notests", "-g", "25447", "-b", "master", "--remote-trybot"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

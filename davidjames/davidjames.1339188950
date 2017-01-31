@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:vmtest-fix", "bot": ["arm-ironhide-release", "arm-daisy-release"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:vmtest-fix:refs/tryjobs/davidjames/1339188950/vmtest-fix/daafeb6a:master:e"], "version": 3, "user": "davidjames", "email": ["davidjames@chromium.org"]}

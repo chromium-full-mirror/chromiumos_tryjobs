@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "57672", "bot": ["pre-cq-launcher"], "extra_args": ["-g", "57672", "--buildbot", "--debug", "--remote-version=4"], "version": 4, "user": "chrome-bot", "email": ["chrome-bot@chromium.org"]}

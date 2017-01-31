@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["daisy-tot-chromium-pfq-informational"], "extra_args": ["--chrome_version", "ec5e8e76f821e73615f977cd76ed819a020fdfe9", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "xdai", "email": ["xdai@chromium.org"]}

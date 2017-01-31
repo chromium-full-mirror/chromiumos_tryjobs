@@ -1,0 +1,1 @@
+{"extra_args": ["--gerrit-patches=I29a670a2"], "bot": ["arm-tegra2-paladin", "arm-tegra2-full", "kaen-paladin", "kaen-paladin", "arm-tegra2-paladin", "kaen-paladin"], "user": "rcui", "name": "I29a670a2", "email": ["rcui@google.com"]}

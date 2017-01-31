@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I6a6fd4f51d710a3b7374eff0759afddbb315f012", "bot": ["stumpy_moblab-release", "rambi-release"], "extra_args": ["-g", "I6a6fd4f51d710a3b7374eff0759afddbb315f012", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

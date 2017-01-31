@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "379456", "bot": ["lakitu-incremental"], "extra_args": ["-g", "379456", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "44880", "bot": ["mario-paladin", "daisy-paladin", "x86-alex-release", "daisy-release", "amd64-generic-full", "link-release", "x86-generic-full", "chromiumos-sdk"], "extra_args": ["-g", "44880", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "merlin", "email": ["merlin@chromium.org"]}

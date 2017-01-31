@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/platform/login_manager:cmp", "bot": ["mario-paladin"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/platform/login_manager:cmp:refs/tryjobs/cmasone/1355412485/cmp/a8e354c5a4adca91e1077705d29b1d6d0b9dcc8b:master:e"], "version": 4, "user": "cmasone", "email": ["cmasone@chromium.org"]}

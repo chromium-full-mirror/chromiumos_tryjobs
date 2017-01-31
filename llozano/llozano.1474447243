@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "295217", "bot": ["terra-release"], "extra_args": ["-g", "295217", "--latest-toolchain", "--nochromesdk", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

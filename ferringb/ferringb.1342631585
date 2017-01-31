@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:cq", "bot": ["x86-generic-paladin", "mario-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:cq:refs/tryjobs/ferringb/1342631585/cq/72eba53c:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

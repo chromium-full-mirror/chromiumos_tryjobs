@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:goma", "bot": ["chromiumos-sdk"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:goma:refs/tryjobs/zbehan/1349140114/goma/126c2c6a311f787fff32550a4fab7e252e3b8940:master:e"], "version": 4, "user": "zbehan", "email": ["zbehan@chromium.org"]}

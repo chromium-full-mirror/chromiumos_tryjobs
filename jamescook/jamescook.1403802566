@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-tot-chrome-pfq-informational", "amd64-generic-tot-chrome-pfq-informational", "daisy-tot-chrome-pfq-informational"], "extra_args": ["-G", "351323002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "jamescook", "email": ["jamescook@chromium.org"]}

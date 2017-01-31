@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ibe0be7ee838dab96b3c94f5bfe4c0fe557eaa101,Iebc0fc295951f20bcef4cbe28f62723b2911de91", "bot": ["link-release", "x86-generic-full"], "extra_args": ["-g", "Ibe0be7ee838dab96b3c94f5bfe4c0fe557eaa101 Iebc0fc295951f20bcef4cbe28f62723b2911de91", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

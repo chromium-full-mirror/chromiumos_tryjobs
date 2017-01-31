@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ieb9e1cded41db4d5b2908763c442f0ce5bf553de,Ifd2a89b3df32760ab0ec7cb22b72383238961b23", "bot": ["pre-cq-launcher"], "extra_args": ["-g", "Ieb9e1cded41db4d5b2908763c442f0ce5bf553de Ifd2a89b3df32760ab0ec7cb22b72383238961b23", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

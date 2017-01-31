@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ibe81ab8", "bot": ["butterfly-release"], "extra_args": ["-g", "Ibe81ab8", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@chromium.org"]}

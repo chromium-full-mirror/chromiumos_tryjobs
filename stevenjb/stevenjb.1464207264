@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-telemetry"], "extra_args": ["--chrome_version", "0300b114fa6124e8ae962af2cbf1de2117bb1bdc", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

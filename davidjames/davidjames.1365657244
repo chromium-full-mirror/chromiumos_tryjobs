@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "47791,47768", "bot": ["compilecheck-group", "parrot-compilecheck"], "extra_args": ["-g", "47791", "-g", "47768", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "davidjames", "email": ["davidjames@chromium.org"]}

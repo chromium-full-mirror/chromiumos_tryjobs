@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[factory-nyan-5772.B] 197236", "bot": ["nyan_big-full"], "extra_args": ["-b", "factory-nyan-5772.B", "-g", "197236", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "littlecvr", "email": ["littlecvr@chromium.org"]}

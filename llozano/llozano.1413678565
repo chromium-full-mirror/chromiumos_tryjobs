@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "217962,218260", "bot": ["lumpy-release", "butterfly-release"], "extra_args": ["--hwtest", "-g", "217962 218260 ", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

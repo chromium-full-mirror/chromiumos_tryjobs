@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-alex-chrome-pfq"], "extra_args": ["--chrome_version", "666baf7f5f1f3d7d22ec07865e7143fa3e762bac", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

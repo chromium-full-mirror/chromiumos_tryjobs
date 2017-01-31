@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:add-who", "bot": ["pre-cq-group"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:add-who:refs/tryjobs/vadimsh@google.com/1383874315/add-who/b0a454f3cdb7c5f014f4bdab1d150fc6dca9ca08:master:e"], "version": 4, "user": "vadimsh", "email": ["vadimsh@google.com"]}

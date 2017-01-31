@@ -1,0 +1,1 @@
+{"name": "chromiumos/platform/chaps:migrate2", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/platform/chaps:migrate2:refs/tryjobs/dkrahn/1333732336/migrate2/ee201914:master"], "version": 1, "user": "dkrahn", "email": ["dkrahn@chromium.org"]}

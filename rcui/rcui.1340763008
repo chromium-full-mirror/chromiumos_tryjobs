@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "26181", "bot": ["x86-mario-release"], "extra_args": ["-g", "26181", "--buildbot", "--branch", "master", "--version", "2494.0.0", "--debug"], "version": 3, "user": "rcui", "email": ["rcui@chromium.org"]}

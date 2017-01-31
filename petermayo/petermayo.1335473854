@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:growroot", "bot": ["lumpy-chrome-pfq"], "extra_args": ["--remote-patches=chromiumos/chromite:growroot:refs/tryjobs/petermayo/1335473854/growroot/457443cb:master"], "version": 1, "user": "petermayo", "email": ["petermayo@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:180155", "bot": ["x86-mario-factory"], "extra_args": ["-g", "CL:180155", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hungte", "email": ["hungte@chromium.org"]}

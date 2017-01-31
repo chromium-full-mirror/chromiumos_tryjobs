@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "184001,184012,184030,184015", "bot": ["link-paladin", "daisy-paladin", "x86-alex-paladin"], "extra_args": ["--hwtest", "-g", "184001", "-g", "184012", "-g", "184030", "-g", "184015", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevefung", "email": ["stevefung@chromium.org"]}

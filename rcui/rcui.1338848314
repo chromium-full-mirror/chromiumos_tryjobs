@@ -1,0 +1,1 @@
+{"slaves_request": ["build37-m4"], "name": "24426", "bot": ["x86-generic-paladin"], "extra_args": ["-g", "24426", "--notests", "-b", "master", "--remote-trybot"], "version": 3, "user": "rcui", "email": ["rcui@chromium.org"]}

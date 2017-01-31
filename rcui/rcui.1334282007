@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:tryjob_test", "bot": ["stumpy-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:tryjob_test:refs/tryjobs/rcui/1334282007/tryjob_test/ae85ab4a:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

@@ -1,0 +1,1 @@
+{"name": "22770", "bot": ["x86-alex-release", "lumpy-release"], "extra_args": ["-g", "22770", "--remote-trybot"], "version": 2, "user": "rcui", "email": ["rcui@chromium.org"]}

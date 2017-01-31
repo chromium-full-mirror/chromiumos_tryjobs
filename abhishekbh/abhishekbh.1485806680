@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*316346,424950", "bot": ["cyan-paladin"], "extra_args": ["-g", "*316346", "-g", "424950", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "abhishekbh", "email": ["abhishekbh@google.com"]}

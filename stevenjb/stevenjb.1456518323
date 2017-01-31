@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["amd64-generic-compile-only-pre-cq"], "extra_args": ["--chrome_version", "beeb3ed1ffb9e415accce729709ada219da31133", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

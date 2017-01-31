@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*304338", "bot": ["lakitu-incremental", "lakitu-release"], "extra_args": ["-g", "*304338", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "yinghan", "email": ["yinghan@google.com"]}

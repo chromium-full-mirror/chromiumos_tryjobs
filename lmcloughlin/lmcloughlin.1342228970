@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "27432", "bot": ["lumpy-paladin"], "extra_args": ["-g", "27432", "--remote-trybot"], "version": 3, "user": "lmcloughlin", "email": ["lmcloughlin@chromium.org"]}

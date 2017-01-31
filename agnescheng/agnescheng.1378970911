@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R20-2268.B] 4168", "bot": ["alex-paladin"], "extra_args": ["-b", "release-R20-2268.B", "-g", "4168", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["amd64-generic-telemetry"], "extra_args": ["--rietveld-patches", "2376533002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "jdufault", "email": ["jdufault@google.com"]}

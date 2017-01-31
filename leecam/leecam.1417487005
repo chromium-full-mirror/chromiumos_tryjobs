@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-alex-paladin"], "extra_args": ["--rietveld-patches", "759343002", "--chrome_rev", "tot", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "leecam", "email": ["leecam@chromium.org"]}

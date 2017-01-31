@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:null_change", "bot": ["arm-generic-full"], "extra_args": ["--remote-patches=chromiumos/chromite:null_change:refs/tryjobs/rcui/1333995270/null_change/23d5d3b2:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

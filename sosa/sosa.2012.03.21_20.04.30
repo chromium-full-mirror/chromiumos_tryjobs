@@ -1,0 +1,1 @@
+{"name": "18690", "bot": ["arm-tegra2_kaen-release"], "extra_args": ["--gerrit-patches=18690"], "version": 1, "user": "sosa", "email": ["sosa@chromium.org"]}

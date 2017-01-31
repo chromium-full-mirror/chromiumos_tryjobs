@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:prebuilts", "bot": ["x86-generic-chromium-pfq"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:prebuilts:refs/tryjobs/sosa/1351543399/prebuilts/317f61664f0aee14470c4dcc423d4ddd2bff860b:master:e"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

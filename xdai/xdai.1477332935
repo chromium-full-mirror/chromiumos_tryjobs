@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["amd64-generic-tot-asan-informational"], "extra_args": ["--chrome_version", "4fa5f3285b050cb2823b41320777cb52f64c9508", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "xdai", "email": ["xdai@chromium.org"]}

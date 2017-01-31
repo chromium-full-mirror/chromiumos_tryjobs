@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "verifying RetryCommand", "bot": ["mario-incremental"], "extra_args": ["-g", "28644", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "ferringb", "email": ["ferringb@chromium.org"]}

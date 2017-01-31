@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-mario-release"], "extra_args": ["--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R23-2913.B] 34508", "bot": ["lumpy-release", "link-release"], "extra_args": ["-b", "release-R23-2913.B", "-g", "34508", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "cwolfe", "email": ["cwolfe@chromium.org"]}

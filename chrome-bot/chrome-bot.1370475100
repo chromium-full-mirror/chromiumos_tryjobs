@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "57623,57626,57627,57630,57628,57624,57625,57629,57622,57631", "bot": ["pre-cq-group"], "extra_args": ["-g", "57623 57626 57627 57630 57628 57624 57625 57629 57622 57631", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "chrome-bot", "email": ["chrome-bot@chromium.org"]}

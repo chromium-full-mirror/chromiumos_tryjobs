@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-mario-paladin"], "extra_args": ["--buildbot", "--debug", "--cq-gerrit-query", "status:open AND label:Code-Review=+2", "--remote-version=4"], "version": 4, "user": "davidjames", "email": ["davidjames@chromium.org"]}

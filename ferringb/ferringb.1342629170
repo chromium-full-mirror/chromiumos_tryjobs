@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:gerrit-number", "bot": ["mario-paladin", "x86-generic-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:gerrit-number:refs/tryjobs/ferringb/1342629170/gerrit-number/6b540115a010d48bf8acfabf4e4e766166109294:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

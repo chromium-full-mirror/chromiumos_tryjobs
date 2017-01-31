@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[stabilize-3428.149.B] ", "bot": ["daisy-release"], "extra_args": ["-b", "stabilize-3428.149.B", "--buildbot", "--remote-version=4"], "version": 4, "user": "ddrew", "email": ["ddrew@chromium.org"]}

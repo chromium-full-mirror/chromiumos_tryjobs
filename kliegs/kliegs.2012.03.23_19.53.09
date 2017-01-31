@@ -1,0 +1,1 @@
+{"name": "18984", "bot": ["x86-generic-full"], "extra_args": ["--gerrit-patches=18984"], "version": 1, "user": "kliegs", "email": ["kliegs@chromium.org"]}

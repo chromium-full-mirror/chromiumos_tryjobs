@@ -1,0 +1,1 @@
+{"name": "chromiumos/platform/crosutils:disable-fast-mode", "bot": ["x86-generic-full"], "extra_args": ["--remote-patches=chromiumos/platform/crosutils:disable-fast-mode:refs/tryjobs/davidjames/1332627345/disable-fast-mode/0980efee:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

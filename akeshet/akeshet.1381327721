@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ic9cb48c2820dc9ad0028c3e67a50ed7fa41b84a6", "bot": ["mario-paladin"], "extra_args": ["-g", "Ic9cb48c2820dc9ad0028c3e67a50ed7fa41b84a6", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "akeshet", "email": ["akeshet@chromium.org"]}

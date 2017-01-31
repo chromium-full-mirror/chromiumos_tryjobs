@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:tempdir", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:tempdir:refs/tryjobs/ferringb/1337068139/tempdir/96fe6b31:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

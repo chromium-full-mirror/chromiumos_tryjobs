@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:296827,CL:297331", "bot": ["x86-generic-compile-only-pre-cq", "veyron_rialto-compile-only-pre-cq", "purin-compile-only-pre-cq", "lumpy-compile-only-pre-cq"], "extra_args": ["-g", "CL:296827 CL:297331", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

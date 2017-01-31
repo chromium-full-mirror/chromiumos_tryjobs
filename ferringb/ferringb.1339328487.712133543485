@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:caching", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:caching:refs/tryjobs/ferringb/1339328486/caching/14b34025:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

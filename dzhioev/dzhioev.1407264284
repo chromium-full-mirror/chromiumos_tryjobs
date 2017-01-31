@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["x86-generic-incremental", "amd64-generic-incremental", "daisy-incremental"], "extra_args": ["-G", "442043002", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "dzhioev", "email": ["dzhioev@chromium.org"]}

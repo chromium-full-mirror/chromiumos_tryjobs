@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:internal_jobs", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:internal_jobs:refs/tryjobs/rcui/1334197242/internal_jobs/a818ea12:master"], "version": 1, "user": "rcui", "email": ["rcui@chromium.org"]}

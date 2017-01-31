@@ -1,0 +1,1 @@
+{"name": "19040", "bot": ["x86-generic-tot-chrome-pfq-informational", "x86-generic-paladin", "x86-mario-release"], "extra_args": ["--gerrit-patches=19040"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:manifest-versions", "bot": ["mario-paladin"], "extra_args": ["--buildbot", "--debug", "--remote-patches=chromiumos/chromite:manifest-versions:refs/tryjobs/ferringb/1341931451/manifest-versions/285e0851:master:e"], "version": 3, "user": "ferringb", "email": ["ferringb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"name": "chromiumos/overlays/chromiumos-overlay:bb", "bot": ["chromiumos-sdk"], "extra_args": ["--remote-patches=chromiumos/overlays/chromiumos-overlay:bb:refs/tryjobs/vapier/1333561415/bb/9ce05e78:master"], "version": 1, "user": "vapier", "email": ["vapier@chromium.org"]}

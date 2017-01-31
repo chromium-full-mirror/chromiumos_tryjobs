@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "65026", "bot": ["pre-cq-group"], "extra_args": ["-g", "65026", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "yunlian", "email": ["yunlian@google.com"]}

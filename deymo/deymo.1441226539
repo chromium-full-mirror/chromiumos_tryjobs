@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:296123,CL:296026", "bot": ["lakitu_mobbuild-compile-only-pre-cq", "lakitu-compile-only-pre-cq"], "extra_args": ["-g", "CL:296123 CL:296026", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*215246", "bot": ["veyron_minnie-paladin"], "extra_args": ["-g", "*215246", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "agnescheng", "email": ["agnescheng@google.com"]}

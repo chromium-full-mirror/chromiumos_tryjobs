@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "If53a2754b59bcc5e28bba985aa18ec6541afe283", "bot": ["daisy-paladin", "nyan-paladin"], "extra_args": ["-g", "If53a2754b59bcc5e28bba985aa18ec6541afe283", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "posciak", "email": ["posciak@chromium.org"]}

@@ -1,0 +1,1 @@
+{"name": "*Id02b4a03,I4d364f55,Ie12e3c4e,I96d0c115", "bot": ["x86-alex-release", "x86-zgb-release", "x86-mario-release", "x86-generic-paladin"], "extra_args": ["--gerrit-patches=*Id02b4a03 I4d364f55 Ie12e3c4e I96d0c115"], "version": 1, "user": "cwolfe", "email": ["cwolfe@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R49-7834.B] I33c771c0fdcbae7ede3d150c4410e99bb2bc33ca", "bot": ["link-release", "daisy_spring-release"], "extra_args": ["-g", "I33c771c0fdcbae7ede3d150c4410e99bb2bc33ca", "-b", "release-R49-7834.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deymo", "email": ["deymo@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ia24d6f0,I04571bd,I8f080521,I44f3f0c7c8ab0,I496b405c2", "bot": ["amd64-generic-paladin", "x86-generic-paladin", "mario-paladin"], "extra_args": ["-g", "Ia24d6f0", "-g", "I04571bd", "-g", "I8f080521", "-g", "I44f3f0c7c8ab0", "-g", "I496b405c2", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wdg", "email": ["wdg@chromium.org"]}

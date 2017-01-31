@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:clearer-output", "bot": ["x86-generic-paladin"], "extra_args": ["--remote-patches=chromiumos/chromite:clearer-output:refs/tryjobs/davidjames/1332865567/clearer-output/5e182457:master"], "version": 1, "user": "davidjames", "email": ["davidjames@chromium.org"]}

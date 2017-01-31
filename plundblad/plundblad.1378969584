@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "Ief1e74d020efa489cb218989a00150af9094b239", "bot": ["lumpy-release"], "extra_args": ["-g", "Ief1e74d020efa489cb218989a00150af9094b239", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "plundblad", "email": ["plundblad@chromium.org"]}

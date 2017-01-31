@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "182549", "bot": ["lumpy-release", "daisy-release", "x86-alex-release", "amd64-generic-asan"], "extra_args": ["-g", "182549", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "yunlian", "email": ["yunlian@google.com"]}

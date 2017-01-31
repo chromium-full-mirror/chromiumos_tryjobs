@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "286935,286944", "bot": ["stumpy_moblab-paladin"], "extra_args": ["-g", "286935", "-g", "286944", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "wonderfly", "email": ["wonderfly@google.com"]}

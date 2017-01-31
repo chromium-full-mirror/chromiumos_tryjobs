@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["daisy-release", "link-release"], "extra_args": ["--buildbot", "--version", "2853.0.0", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "250862", "bot": ["lulu-release", "auron-pre-cq", "auron-paladin", "butterfly_freon-release", "link-paladin", "peppy-paladin", "parrot_freon-paladin", "lumpy-paladin", "swanky-paladin"], "extra_args": ["-g", "250862", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "zachr", "email": ["zachr@google.com"]}

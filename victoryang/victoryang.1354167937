@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "*I231bcd16,Idb15188a,I318a4f02", "bot": ["daisy-release"], "extra_args": ["-g", "*I231bcd16 Idb15188a I318a4f02", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "victoryang", "email": ["victoryang@chromium.org"]}

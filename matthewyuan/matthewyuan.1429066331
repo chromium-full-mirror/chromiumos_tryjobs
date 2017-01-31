@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["tidus-payloads"], "extra_args": ["--channel", "beta", "--version", "6812.75.0", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "matthewyuan", "email": ["matthewyuan@google.com"]}

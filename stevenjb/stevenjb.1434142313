@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["parrot-chrome-perf"], "extra_args": ["--chrome_version", "5893b13be4d92209bee3913e1bb0107815745312", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "stevenjb", "email": ["stevenjb@chromium.org"]}

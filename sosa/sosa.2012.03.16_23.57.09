@@ -1,0 +1,1 @@
+{"name": "18340", "bot": ["x86-generic-incremental"], "extra_args": ["--gerrit-patches=18340"], "version": 1, "user": "sosa", "email": ["sosa@chromium.org"]}

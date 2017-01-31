@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "33827", "bot": ["alex-chrome-pfq"], "extra_args": ["-g", "33827", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "sosa", "email": ["sosa@chromium.org"]}

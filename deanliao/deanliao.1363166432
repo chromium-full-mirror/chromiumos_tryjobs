@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "45290,45291,*33693,45304,45305,*33632,*33552", "bot": ["spring-release"], "extra_args": ["-g", "45290 45291 *33693 45304 45305 *33632 *33552", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "deanliao", "email": ["deanliao@chromium.org"]}

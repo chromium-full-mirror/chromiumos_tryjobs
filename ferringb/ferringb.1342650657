@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "chromiumos/chromite:testing", "bot": ["mario-incremental"], "extra_args": ["--remote-trybot", "--remote-version=4", "--remote-patches=chromiumos/chromite:testing:refs/tryjobs/ferringb/1342650657/testing/a79107203e6eb2222078d45515825937387b72b9:master:e"], "version": 4, "user": "ferringb", "email": ["ferringb@chromium.org"]}

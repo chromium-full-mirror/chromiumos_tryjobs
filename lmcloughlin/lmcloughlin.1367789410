@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "platform2", "bot": ["daisy-full"], "extra_args": ["-g", "37366", "-g", "40315", "-g", "40316", "-g", "38286", "-g", "42999", "-g", "39049", "-g", "50140", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "lmcloughlin", "email": ["lmcloughlin@chromium.org"]}

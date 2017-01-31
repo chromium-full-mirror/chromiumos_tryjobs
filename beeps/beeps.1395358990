@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R34-5500.B] 190973", "bot": ["peach_pi-release"], "extra_args": ["--hwtest", "-g", "190973", "-b", "release-R34-5500.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "beeps", "email": ["beeps@google.com"]}

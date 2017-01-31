@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "I4f3654dafc9766f7d3a34de464d28570a2dfd721", "bot": ["rush_ryu-pre-cq"], "extra_args": ["-g", "I4f3654dafc9766f7d3a34de464d28570a2dfd721", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "alliewood", "email": ["alliewood@chromium.org"]}

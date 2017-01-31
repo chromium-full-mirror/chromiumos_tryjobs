@@ -1,0 +1,1 @@
+{"name": "chromiumos/chromite:runcommand", "bot": ["x86-generic-full"], "extra_args": ["--remote-trybot", "--remote-patches=chromiumos/chromite:runcommand:refs/tryjobs/ferringb/1336165244/runcommand/670ad56a:master"], "version": 2, "user": "ferringb", "email": ["ferringb@chromium.org"]}

@@ -1,0 +1,1 @@
+{"slaves_request": ["cros3-c2"], "name": "265056", "bot": ["binhost-pre-cq"], "extra_args": ["-g", "265056", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "dgarrett", "email": ["dgarrett@google.com"]}

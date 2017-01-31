@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R45-7262.B] 303216,303217", "bot": ["lumpy-paladin", "daisy-paladin"], "extra_args": ["-g", "303216", "-g", "303217", "-b", "release-R45-7262.B", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "msartori", "email": ["msartori@google.com"]}

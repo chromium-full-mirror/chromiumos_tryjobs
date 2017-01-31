@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "340033", "bot": ["beaglebone_servo-release"], "extra_args": ["-g", "340033", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "printesoi", "email": ["printesoi@chromium.org"]}

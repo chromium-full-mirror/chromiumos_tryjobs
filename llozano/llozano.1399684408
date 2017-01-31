@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "198763,199250", "bot": ["lumpy-release-pgo"], "extra_args": ["--chrome_rev", "latest_release", "-g", "198763 199250", "--hwtest", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "llozano", "email": ["llozano@chromium.org"]}

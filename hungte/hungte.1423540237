@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "CL:247910", "bot": ["link-no-vmtest-pre-cq"], "extra_args": ["-g", "CL:247910", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "hungte", "email": ["hungte@chromium.org"]}
