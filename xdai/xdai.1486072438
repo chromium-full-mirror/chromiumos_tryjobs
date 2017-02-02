@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "", "bot": ["falco-chrome-pfq"], "extra_args": ["--chrome_version", "c34e1fd412b20e7d93926430d9e6e9dddf3ceac5", "--remote-trybot", "--remote-version=4"], "version": 4, "user": "xdai", "email": ["xdai@chromium.org"]}
