@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[stabilize-M58-9334.41.0.B] ", "bot": ["arkham-release", "whirlwind-release", "gale-release"], "extra_args": ["--buildbot", "--branch", "stabilize-M58-9334.41.0.B", "--remote-version=4"], "version": 4, "user": "hyehia", "email": ["hyehia@google.com"]}
