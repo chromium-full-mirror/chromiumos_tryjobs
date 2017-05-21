@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[stabilize-9460.40.B] ", "bot": ["gale-release", "arkham-release", "whirlwind-release"], "extra_args": ["--buildbot", "--branch", "stabilize-9460.40.B", "--remote-version=4"], "version": 4, "user": "hyehia", "email": ["hyehia@google.com"]}
