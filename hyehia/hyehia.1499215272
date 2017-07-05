@@ -1,0 +1,1 @@
+{"slaves_request": [], "name": "[release-R60-9592.B] ", "bot": ["arkham-release", "whirlwind-release", "gale-release"], "extra_args": ["--buildbot", "--branch", "release-R60-9592.B", "--remote-version=4"], "version": 4, "user": "hyehia", "email": ["hyehia@google.com"]}
